@@ -36,7 +36,7 @@ function App() {
         <input
           type='text'
           className='form-control'
-          placeholder='Lavense la carita'
+          placeholder='ese tema y ojalá no le impulsen'
           onChange={e => {
             setString(e.target.value)
           }}
@@ -51,7 +51,7 @@ function App() {
         <input
           type='text'
           className='form-control'
-          placeholder='MvmcjwVBd9c'
+          placeholder='Xgaz7dzyDKU'
           onChange={e => {
             setCode(e.target.value)
           }}
@@ -77,5 +77,5 @@ export default App
 
 
 
-// Xgaz7dzyDKU
-// ese tema y ojalá no le impulsen
+// Cod Pureba: Xgaz7dzyDKU
+// String Prueba: ese tema y ojalá no le impulsen
